@@ -1,0 +1,3 @@
+/home/silent/work/testfw_devboard/CMakeFiles/testfw_devboard.elf.dir
+/home/silent/work/testfw_devboard/CMakeFiles/edit_cache.dir
+/home/silent/work/testfw_devboard/CMakeFiles/rebuild_cache.dir
